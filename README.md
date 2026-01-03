@@ -1,6 +1,6 @@
 # 🐶 Dog Memory Game
 
-A fun and challenging memory game featuring adorable dog images, powered by [TheDogAPI](https://thedogapi.com). Test your memory skills across multiple difficulty levels — but be careful not to pick the same image twice!
+A fun and challenging memory game featuring dog images, powered by [TheDogAPI](https://thedogapi.com). Test your memory skills across multiple difficulty levels, but be careful not to pick the same image twice!
 
 ---
 
